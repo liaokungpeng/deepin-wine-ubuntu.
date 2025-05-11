@@ -183,8 +183,3 @@ sudo apt-get install libjpeg62:i386
 * 4. 新建 Pull Request
 * 5. 捐赠：
 1. [捐赠开发者deepin](https://bbs.deepin.org/forum.php?mod=viewthread&tid=40784&extra=page%3D1)
-
-
-欢迎大家积极反馈！
-
-    *本软件最近更新可能有点缓慢
